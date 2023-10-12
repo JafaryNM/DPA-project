@@ -1,0 +1,20 @@
+{
+  "books": [
+    {
+      "title": "laksdjfalksjdf",
+      "id": 1
+    },
+    {
+      "title": "Harry Potter",
+      "id": 2
+    },
+    {
+      "title": "test",
+      "id": 3
+    },
+    {
+      "title": "angular test",
+      "id": 4
+    }
+  ]
+}
